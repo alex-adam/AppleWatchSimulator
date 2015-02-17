@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Watch.qml</file>
+        <file>Notification.qml</file>
+    </qresource>
+    <qresource prefix="/pics">
+        <file>awatch.png</file>
+        <file>pics/activity_app.png</file>
+        <file>pics/clock.png</file>
+        <file>pics/contacts.png</file>
+        <file>pics/home_activityapp.png</file>
+        <file>pics/home_blur.png</file>
+        <file>pics/home_clock.png</file>
+        <file>pics/home_fotos.png</file>
+        <file>pics/home_itunes.png</file>
+        <file>pics/home_mail.png</file>
+        <file>pics/home_messages.png</file>
+        <file>pics/home.png</file>
+        <file>pics/itunes.png</file>
+        <file>pics/mail.png</file>
+        <file>pics/messages.png</file>
+        <file>pics/notification.png</file>
+        <file>pics/notification_icon.png</file>
+        <file>pics/notification_button.png</file>
+    </qresource>
+</RCC>
