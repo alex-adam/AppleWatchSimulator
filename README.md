@@ -1,7 +1,7 @@
 # AppleWatchSimulator
 
 The Apple Watch Simulator simulates some of the functions of the upcoming Apple-Watch. 
-At the moment these functions include:
+<br />At the moment these functions include:
  - Opening apps from the home screen (iTunes, Mail, Messages, Activity App, and the clock)
  - Going back to the home screen by pressing the crown
  - Opening contacts when pressing the contacts button beneath the crown
